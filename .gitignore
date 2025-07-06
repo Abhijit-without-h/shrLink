@@ -70,6 +70,9 @@ docs/_build/
 # Temporary .shr files for testing
 *.shr
 
+# Agent specification (private)
+agent.md
+
 # HTTP server files (if running local server)
 uploads/
 files/
